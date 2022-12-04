@@ -1,0 +1,27 @@
+#title {
+    color:rgb(255, 74, 67);
+    font-size:25px;
+    font-family:'Special Elite', cursive;
+}
+
+#note {
+    color:coral;
+    font-size:15px;
+    font-family:'Roboto', sans-serif;
+}
+
+#detect {
+    font-family:'Special Elite', cursive;
+    color:coral;
+    font-size:20px;
+}
+
+#accuracytag {
+    font-family:'Special Elite', cursive;
+    color:coral;
+    font-size:20px;
+}
+
+.body {
+    background-color:rgb(255, 169, 138);
+}
